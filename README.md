@@ -7,14 +7,14 @@
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)
 ![Seoyun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seoyun2&layout=compact&theme=buefy)
 
-### <div align=center> 📫 How to reach me:</div>
+### <div align=center> 📫 How to reach me 📫 : </div>
 
 <div align=center> </a>
 <a href="mailto:96seoyun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com"/>
 <a href="http://instagram.com/seoyun._2" target="_blank"><img src="https://img.shields.io/badge/Instagram-F08080?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/seoyun._2"/>
 <a href="mailto:freesy116@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com"/></div>
 
-### <div align=center>:wrench: STACK : </div>
+### <div align=center>🛠️ STACK 🛠️ : </div>
 
 <div align=center><img src="https://img.shields.io/badge/R-6495ED?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
