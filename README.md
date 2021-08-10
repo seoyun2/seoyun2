@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=graywhite)
 
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
