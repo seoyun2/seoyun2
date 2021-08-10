@@ -7,6 +7,7 @@
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-F08080?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
 [![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)
 
+:wrench:
 <!--
 **seoyun2/seoyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
