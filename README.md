@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=graywhite)
 
-[![R Badge](https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white)]
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
