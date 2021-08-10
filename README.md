@@ -1,5 +1,4 @@
 ### Hi there 👋
-![header](https://seoyun2.vercel.app/api?type=Cylinder&color=gradient&height=100&section=header&text=Hi there 👋&fontSize=90)
 
 🌱 I’m currently learning DeepLearning, MachineLearning.
 
