@@ -1,21 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyun&fontSize=70)
 
-### <center>Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)</center>
+### <<div align=center>Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 <div align=center> 🌱 I’m currently learning DeepLearning, MachineLearning.</div>
 
-<center>📫 How to reach me:
+<div align=center> 📫 How to reach me:</div>
 
-<center>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
+<div align=center> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-F08080?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
-[![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)</center>
+[![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)</div>
 
-<center>:wrench: STACK : </center>
+<div align=center>:wrench: STACK : </div>
 
-<center><img src="https://img.shields.io/badge/R-6495ED?style=flat-square&logo=R&logoColor=white"/></a>
+<div align=center><img src="https://img.shields.io/badge/R-6495ED?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></center>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></div>
 
 <!--
 **seoyun2/seoyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
