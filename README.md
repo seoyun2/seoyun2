@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFB6C1&height=200&section=header&text=Seoyun&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=SLICE&color=FFB6C1&height=200&section=header&text=Seoyun&fontSize=70&fontColor=FFFFFF)
 
-# Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning DeepLearning, MachineLearning.
 
