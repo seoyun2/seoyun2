@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://AIFFEL.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/seoyun2/AIFFEL)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2)](https://github.com/anuraghazra/github-readme-stats)
