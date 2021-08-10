@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning DeepLearning, MachineLearning.
+📫 How to reach me: 96seoyun@gmail.com
 <!--
 **seoyun2/seoyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
