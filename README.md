@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning DeepLearning, MachineLearning.
 
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-F08080?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
+[![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)
