@@ -7,7 +7,10 @@
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-F08080?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
 [![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)
 
-:wrench: STACK : 
+:wrench: STACK : <img src="https://img.shields.io/badge/R-6495ED?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <!--
 **seoyun2/seoyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +29,3 @@ Here are some ideas to get you started:
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=graywhite)
 
 
-<img src="https://img.shields.io/badge/R-1E90FF?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
