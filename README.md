@@ -7,7 +7,7 @@
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-F08080?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
 [![Nmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com)](mailto:freesy116@naver.com)
 
-:wrench:
+:wrench: STACK : 
 <!--
 **seoyun2/seoyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=graywhite)
 
+[![Gmail Badge](https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white)]
