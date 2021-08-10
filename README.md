@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=graywhite)
 
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
+[![Instagram Badge]("http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&link=https://instagram.com/seoyun2/"
