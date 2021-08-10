@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)
+[![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2)](https://github.com/seoyun2)
+
