@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com)](mailto:96seoyun@gmail.com)
-[![Instagram Badge](http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
+[![Instagram Badge](http://img.shields.io/badge/-Instagram-C71585?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seoyun._2/)](https://instagram.com/seoyun._2)
