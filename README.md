@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning DeepLearning, MachineLearning.
 
+![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)
+
 ### <div align=center> 📫 How to reach me:</div>
 
 <div align=center> </a>
@@ -17,7 +19,3 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a></div>
-
-
-
-![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)
