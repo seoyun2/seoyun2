@@ -5,6 +5,7 @@
 🌱 I’m currently learning DeepLearning, MachineLearning.
 
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)
+![Seoyun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seoyun2&layout=compact&theme=buefy)
 
 ### <div align=center> 📫 How to reach me:</div>
 
