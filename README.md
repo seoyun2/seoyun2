@@ -14,8 +14,6 @@
 <a href="http://instagram.com/seoyun._2" target="_blank"><img src="https://img.shields.io/badge/Instagram-F08080?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/seoyun._2"/>
 <a href="mailto:freesy116@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com"/></div>
 
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
 ### <div align=center>:wrench: STACK : </div>
 
 <div align=center><img src="https://img.shields.io/badge/R-6495ED?style=flat-square&logo=R&logoColor=white"/></a>
