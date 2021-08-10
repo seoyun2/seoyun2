@@ -11,7 +11,7 @@
 
 <div align=center> </a>
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:96seoyun@gmail.com"/>
-<img src="https://img.shields.io/badge/Instagram-F08080?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.seoyun._2"/>
+<img src="https://img.shields.io/badge/Instagram-F08080?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/seoyun._2"/>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:freesy116@naver.com"/></div>
 
 ### <div align=center>:wrench: STACK : </div>
