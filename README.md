@@ -20,4 +20,4 @@
 
 
 
-<div align=center>![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)</div>
+<div align=center> ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy) </div>
