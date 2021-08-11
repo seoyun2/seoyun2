@@ -2,7 +2,7 @@
 
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyun2&count_bg=%23F5C4C4&title_bg=%23ED7575&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🌱 I’m currently learning DeepLearning, MachineLearning.
+🌱 I’m currently learning DeepLearning and MachineLearning.
 
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun2&show_icons=true&theme=buefy)
 ![Seoyun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seoyun2&layout=compact&theme=buefy)
